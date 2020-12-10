@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoURL" : "mongodb+srv://taymoon:newpass11@cluster0-aq3nh.mongodb.net/mern?retryWrites=true&w=majority",
+  "jwtSecret": "good search water",
+  "baseUrl": "http://localhost:5000"
+}
